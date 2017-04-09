@@ -1,0 +1,17 @@
+{
+  "name": "sophiesbot",
+  "version": "1.0.0",
+  "description": "bot for athena hacks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sophie Wu",
+  "license": "MIT",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "botbuilder-cognitiveservices": "^1.0.1",
+    "restify": "^4.3.0"
+  },
+  "devDependencies": {}
+}
